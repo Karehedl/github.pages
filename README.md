@@ -9,3 +9,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git init](Init.md)
 - [git add](Add.md)
 - [git commit](Commit.md)
+- [git remote](Remotes.md)
